@@ -1,29 +1,18 @@
-This is a Next.js project bootstrapped with create-next-app.
+# Medical Inventory and Alerts System
 
-Getting Started
-First, run the development server:
+A Medical Inventory Management web application built with Next.js to manage medicines, track stock levels, and send low-stock or expiry alerts.
 
+This project is bootstrapped with Next.js using create-next-app.
+
+## Features
+
+- Inventory management
+- Low stock alerts
+- Expiry notifications
+- Add and update medicines
+
+## Run Project
+
+```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-Open http://localhost:3000 with your browser to see the result.
-
-You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.
-
-This project uses next/font to automatically optimize and load Geist, a new font family for Vercel.
-
-Learn More
-To learn more about Next.js, take a look at the following resources:
-
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
-
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
